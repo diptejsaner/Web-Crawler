@@ -1,0 +1,44 @@
+Name: Diptej Saner
+USC ID: 2133531420
+News site crawled: latimes.com
+
+Fetch Statistics
+================
+# fetches attempted: 19607
+# fetches succeeded: 19093
+# fetches failed or aborted: 514
+
+Outgoing URLs:
+==============
+Total URLs extracted: 542987
+# unique URLs extracted: 71625
+# unique URLs within News Site: 46719
+# unique URLs outside News Site: 24906
+
+Status Codes:
+=============
+200 OK: 19093
+301 Moved Permanently: 349
+302 Moved Temporarily: 7
+401 Unauthorized: 0
+403 Forbidden: 0
+404 Not Found: 158
+
+File Sizes:
+===========
+< 1KB: 114
+1KB ~ <10KB: 97
+10KB ~ <100KB: 2126
+100KB ~ <1MB: 16405
+>= 1MB: 6
+
+Content Types
+==============
+text/html: 16780
+text/xml: 30
+image/gif: 2
+image/jpeg: 1738
+image/png: 8
+image/svg+xml: 19
+image/x-icon: 3
+application/javascript: 168
